@@ -27,6 +27,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction));
 
 // social reveal animation
 
+/*
 const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
@@ -34,7 +35,7 @@ const sr = ScrollReveal({
     reset: true
 })
 
-/*
+
 // scroll home
 sr.reveal('.home_title',{})
 sr.reveal('.button',{delay: 200})
