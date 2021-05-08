@@ -27,7 +27,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction));
 
 // social reveal animation
 
-/*
+
 const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
@@ -58,4 +58,4 @@ sr.reveal('.work_img', {interval: 200})
 
 // scroll contact
 sr.reveal('.contact_input', {interval: 200})
-*/
+
