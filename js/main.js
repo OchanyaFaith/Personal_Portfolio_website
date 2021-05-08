@@ -31,7 +31,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction));
 const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
-    duration: 2000,
+    duration: 4000,
     reset: true
 })
 
@@ -42,6 +42,7 @@ sr.reveal('.button',{delay: 200})
 sr.reveal('.home_img',{delay: 400})
 sr.reveal('.home_social-icon',{interval: 200})
 
+/*
 // scroll about
 sr.reveal('.about_img',{})
 sr.reveal('.about_subtitle',{delay: 200})
