@@ -95,7 +95,7 @@ img{
     margin-bottom: var(--mg-4);
     text-align: center;
 }
-/*
+
 .section-title::after{
     content: "";
     position: absolute;
@@ -107,7 +107,7 @@ img{
     top: 2rem;
     background-color: var(--first-color);
 }
-*/
+
 .section{
     padding: 3rem 0 2rem 0;
 }
